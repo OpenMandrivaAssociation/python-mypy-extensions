@@ -6,9 +6,11 @@ Summary:	Type system extensions for programs checked with the mypy type checker.
 URL:		https://pypi.org/project/mypy-extensions/
 License:	None
 Group:		Development/Python
-BuildRequires:	python
 BuildSystem:	python
+BuildRequires:	python
 BuildArch:	noarch
+
+%rename python-mypy_extensions
 
 %description
 Type system extensions for programs checked with the mypy type checker.
