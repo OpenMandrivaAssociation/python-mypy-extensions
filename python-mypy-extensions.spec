@@ -1,6 +1,6 @@
 Name:		python-mypy-extensions
 Version:	1.1.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/m/mypy_extensions/mypy_extensions-%{version}.tar.gz
 Summary:	Type system extensions for programs checked with the mypy type checker.
 URL:		https://pypi.org/project/mypy-extensions/
